@@ -66,4 +66,6 @@ The project includes various visualizations such as:
 ## 🚀 **Contact**
 For questions or collaboration opportunities, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jayita-mondal-2k02/).  
 
-#DataAnalysis #Python #JupyterNotebook #AirbnbAnalysis #DataVisualization #Pandas #NumPy #Matplotlib #Seaborn #DataScience #TheiScale #SwatiDhote
+```
+#DataAnalysis #Python #JupyterNotebook #AirbnbAnalysis #DataVisualization #Pandas #NumPy #Matplotlib #Seaborn #DataScience
+```
