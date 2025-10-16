@@ -16,7 +16,10 @@ This project is a **Data Analysis of Airbnb** listings, where I explored and vis
 - **Libraries:**  
     - 🐼 **Pandas:** Data cleaning and manipulation  
     - 🔢 **NumPy:** Mathematical operations  
-    - 📊 **Matplotlib & Seaborn:** Data visualization  
+    - 📊 **Matplotlib & Seaborn:** Data visualization
+
+## 🛠️ **Dataset**
+- **Link:** https://drive.google.com/file/d/1hj0zbsnKLoKnRBpqRfZcB4cLJJJkFGGX/view?usp=sharing
 
 ## 🔥 **Project Structure**
 The project was divided into three main parts:  
